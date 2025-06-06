@@ -2,8 +2,8 @@
 
 :root {
     --branco: white;
-    --cor-de-fundo: hsl(211, 58%, 64%);
-    --fundo-senha: #00244D;
+    --cor-de-fundo: hwb(211 22% 35%);
+    --fundo-senha: .#00244D;
     --fundo-texto: #001E40;
     --borda: #9eb1c6;
     --roboto: 'Roboto', sans-serif;
