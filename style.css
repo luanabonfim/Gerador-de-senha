@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Mono&display=swap&#39');
 
 :root {
     --branco: white;
@@ -132,16 +132,16 @@ label {
 
 .fraca {
     width: 25%;
-    background-color: #E71B32;
+    background-color: #d61be7;
 }
 
 .media {
-    background-color: #FAF408;
+    background-color: #fa0881;
     width: 50%;
 }
 
 .forte {
-    background-color: #00FF85;
+    background-color: #ff0077;
     width: 100%;
 }
 
